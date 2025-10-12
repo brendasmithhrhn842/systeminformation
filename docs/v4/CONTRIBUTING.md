@@ -10,3 +10,5 @@ First of all: thank you for contributing to this repository. We are always looki
   * Your commits should not be breaking changes - if possible.
   * Your PR are well tested - if possible on multiple platforms / machines (please provide information against what systems it was tested).
   * If your commit needs a major version bump (breaking change), please leave a clear message in your comments. We try to keep the breaking changes as low as possible to avoid compatibility issues.
+
+<!-- Auto-update: 2025-10-12T16:43:24.602248 -->
